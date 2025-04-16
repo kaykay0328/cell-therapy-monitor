@@ -1,0 +1,53 @@
+{
+    "lastUpdated": "2025-04-16 08:00:00",
+    "nextUpdate": "2025-04-17 08:00:00",
+    "counts": {
+        "academic": 5,
+        "clinical": 3,
+        "policy": 2
+    },
+    "latest": {
+        "academic": [
+            {
+                "date": "2025-04-15",
+                "title": "干细胞治疗在神经退行性疾病中的最新进展",
+                "source": "Nature",
+                "link": "https://www.nature.com/articles/example"
+            },
+            {
+                "date": "2025-04-14",
+                "title": "CAR-T细胞疗法在实体瘤治疗中的突破",
+                "source": "Science",
+                "link": "https://www.science.org/articles/example"
+            }
+        ],
+        "clinical": [
+            {
+                "date": "2025-04-16",
+                "title": "新型CAR-NK细胞疗法进入II期临床试验",
+                "trialId": "NCT0123456789",
+                "link": "https://clinicaltrials.gov/study/NCT0123456789"
+            },
+            {
+                "date": "2025-04-13",
+                "title": "干细胞治疗帕金森病III期临床试验结果公布",
+                "trialId": "NCT9876543210",
+                "link": "https://clinicaltrials.gov/study/NCT9876543210"
+            }
+        ],
+        "policy": [
+            {
+                "date": "2025-04-12",
+                "title": "国家药监局发布细胞治疗产品注册技术指导原则",
+                "agency": "国家药监局",
+                "link": "https://www.nmpa.gov.cn/example"
+            },
+            {
+                "date": "2025-04-10",
+                "title": "FDA更新干细胞治疗监管框架",
+                "agency": "FDA",
+                "link": "https://www.fda.gov/example"
+            }
+        ]
+    }
+}
